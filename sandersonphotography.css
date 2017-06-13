@@ -23,6 +23,11 @@ body {
 	font-weight: bold;
 }
 
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 
 
 
